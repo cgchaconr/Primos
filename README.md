@@ -1,3 +1,3 @@
 # Primos
 Methods to calculate Prime Numbers
-Metodo para obtener numeros primos escrito usando Python3
+Metodo para obtener numeros primos escrito en Python3
